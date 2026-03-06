@@ -93,7 +93,7 @@ GeometricFigures
 │
 └── Program.cs
 ```
-Example Output
+```Example Output
 Circle         => Area......:     78.53982     Perimiter:     31.41593
 Square         => Area......:    100.00000     Perimiter:     40.00000
 Rhombus        => Area......:     35.00000     Perimiter:     20.00000
